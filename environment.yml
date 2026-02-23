@@ -1,4 +1,4 @@
-name: tf-root-env
+name: omnifold
 channels:
   - conda-forge
 dependencies:
